@@ -36,7 +36,7 @@ export default function About() {
             </div>
 
             <div className="edu-item">
-              <div className="deg">B.A. Applied Information Technology</div>
+              <div className="deg">BSc. Applied Information Technology</div>
               <div className="meta">
                 <span>SLTC Research University</span>
                 <span className="res">Expected Jun 2027</span>
