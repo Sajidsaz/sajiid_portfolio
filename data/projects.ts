@@ -46,7 +46,7 @@ export const projects: Project[] = [
     title: "HEYSAZ Fashion Store",
     tag: "E-commerce app",
     github: "https://github.com/Sajidsaz",
-    live: undefined,
+    live: "https://heysaz-fashion-store.vercel.app/",
     desc: "A cross-platform fashion e-commerce app taken from Figma mockups to a working Flutter build for Android and iOS.",
     points: [
       "Architected with the MVVM pattern and the Provider package for scalable, testable state across 12+ ViewModels.",
